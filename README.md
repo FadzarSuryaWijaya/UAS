@@ -6,6 +6,10 @@
 |----|---|-----|------|
 |Fadzar Surya Wijaya|312310451|TI.23.A.5|Basis Data|
 
+# Table
+![alt text](picture/tabel.png)
+
+
 # Create Table
 ![alt text](picture/1.png)
 ![alt text](picture/2.png)
