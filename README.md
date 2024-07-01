@@ -1,8 +1,5 @@
-# UAS
-UAS - universitas pelita bangsa
-
-# MYSQL7 - Pertemuan ke 15
-# Tugas Praktikum6 { UAS } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
+# UAS - Pertemuan ke 16
+# Tugas Pertemuan ke 16 { UAS } <img src=https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png width="130px" >
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -10,11 +7,11 @@ UAS - universitas pelita bangsa
 |Fadzar Surya Wijaya|312310451|TI.23.A.5|Basis Data|
 
 # Create Table
-![alt text](picture/1.PNG)
-![alt text](picture/2.PNG)
+![alt text](picture/1.png)
+![alt text](picture/2.png)
 
 # Create Foreign Key
-![alt text](picture/3.PNG)
+![alt text](picture/3.png)
 
 
 # Latihan UAS
@@ -69,5 +66,5 @@ JOIN project_detail pd ON p.id_proj = pd.id_proj
 JOIN karyawan k ON pd.nik = k.nik
 WHERE k.gaji_pokok < 3000000;
 ```
-![alt text](picture/soal1.PNG)
-![alt text](picture/soal2.PNG)
+![alt text](picture/soal1.png)
+![alt text](picture/soal2.png)
